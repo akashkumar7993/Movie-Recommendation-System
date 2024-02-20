@@ -1,0 +1,18 @@
+{
+  "dependencies": {
+    "axios": "^1.6.7"
+  },
+  "name": "movie-recommendation-system",
+  "description": "This is a movie Recomandation app",
+  "version": "1.0.0",
+  "main": "app.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "(https://github.com/akashkumar7993/Movie-Recommendation-System.git)"
+  },
+  "author": "Akash kumar",
+  "license": "ISC"
+}
